@@ -4,8 +4,8 @@ A basic note-taking app with Next.js 13 and Pocketbase.
 
 ### Setup
 
-1.after cloning the repo : 
-`cd [directory]`
+1. Create a new Next.js app:
+`npx create-next-app@latest --ts`
 
 2. Download Pocketbase from [pocketbase.io](pocketbase.io)
 3. Navigate to the unzipped directory
